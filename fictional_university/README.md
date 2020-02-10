@@ -1,5 +1,6 @@
 # fictional university
 Wordpress theme created during a Udemy course [Become a Wordpress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/){:target="_blank"} by Brad Schiff.
+<a href="https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/" target="_blank">Become a Wordpress Developer: Unlocking Power With Code</a>
 
 The tutorial was about creating a dynamic wordpress theme from scratch till the deployment of it.
 
